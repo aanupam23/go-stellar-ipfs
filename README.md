@@ -4,7 +4,7 @@
   <img src='https://github.com/aanupam23/go-stellar-ipfs/blob/master/images/go-stellar-ipfs.png' />
 </p>
 
-[![Version](https://img.shields.io/badge/go--stellar--ipfs-v0.1-orange.svg)](https://github.com/aanupam23/go-stellar-ipfs/releases) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Document](https://img.shields.io/badge/godoc-document-blue.svg)](https://godoc.org/github.com/aanupam23/go-stellar-ipfs)
+[![Version](https://img.shields.io/badge/go--stellar--ipfs-v0.2-orange.svg)](https://github.com/aanupam23/go-stellar-ipfs/releases) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Document](https://img.shields.io/badge/godoc-document-blue.svg)](https://godoc.org/github.com/aanupam23/go-stellar-ipfs)
 
 
 # Dependencies
@@ -119,7 +119,7 @@ ipfs daemon
 ```
 
 Once IPFS Daemon is initialized, run your code.
-If ipfs is not installed on your system, refer this [guide](https://docs.ipfs.io/introduction/usage/) for installing IPFS.
+If IPFS is not installed on your system, refer this [guide](https://docs.ipfs.io/introduction/usage/) for installing IPFS.
 
 
 # Upcoming/Missing Features
@@ -141,3 +141,7 @@ Please refer [CONTRIBUTE.md](https://github.com/aanupam23/go-stellar-ipfs/CONTRI
 # Licence
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+Stellar is trademark of [Stellar Development Foundation](https://www.stellar.org/). 
+
+IPFS is trademark of [Protocol Labs](https://protocol.ai/).
