@@ -136,7 +136,7 @@ This library acts as a bridge between go-ipfs-api and stellar to make features e
 # Contribute
 [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) is open source and all contributions are welcome.
 
-Please refer [CONTRIBUTE.md](https://github.com/aanupam23/go-stellar-ipfs/CONTRIBUTE.md) for information.
+Please refer [CONTRIBUTING.md](https://github.com/aanupam23/go-stellar-ipfs/CONTRIBUTING.md) for information.
 
 # Licence
 
