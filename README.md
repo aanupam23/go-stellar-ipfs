@@ -1,6 +1,7 @@
 # go-stellar-ipfs
 
 ![Go-Stellar-IPFS](images/go-stellar-ipfs.png)
+<center><img src='https://github.com/aanupam23/go-stellar-ipfs/blob/master/images/go-stellar-ipfs.png'></center>
 
 [![Version](https://img.shields.io/badge/go--stellar--ipfs-v0.1-orange.svg)](https://github.com/aanupam23/go-stellar-ipfs/releases) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Document](https://img.shields.io/badge/godoc-document-blue.svg)](https://godoc.org/github.com/aanupam23/go-stellar-ipfs)
 
@@ -116,6 +117,7 @@ Start IPFS daemon
 ipfs daemon
 ```
 
+Once IPFS Daemon is initialized, run your code.
 If ipfs is not installed on your system, refer this [guide](https://docs.ipfs.io/introduction/usage/) for installing IPFS.
 
 
