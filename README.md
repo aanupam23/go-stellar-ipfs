@@ -24,7 +24,7 @@ Refer the below examples for sample usage.
 
 # Example
 
-A basic example which implements Addition of IPFS data in stellar compatible format.
+A complete example which implements addition of IPFS data in stellar compatible format using memo hash field.
 
 ```
 package main
