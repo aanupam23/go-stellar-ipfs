@@ -131,7 +131,9 @@ This library acts as a bridge between go-ipfs-api and stellar to make features e
 | 1    | IPFS hash validation  |   x    |
 | 2    | IPFS Add options      |   x    |
 | 3    | IPFS bootstrap        |   x    |
-| 4    | Suggest any feature   |   -    |
+| 4    | Private Stellar       |   x    |
+| 5    | Suggest any feature   |   -    |
+
 
 # Contribute
 [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) is open source and all contributions are welcome.
