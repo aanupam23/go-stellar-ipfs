@@ -122,6 +122,9 @@ Once IPFS Daemon is initialized, run your code.
 If IPFS is not installed on your system, refer this [guide](https://docs.ipfs.io/introduction/usage/) for installing IPFS.
 
 
+# Featured
+- Featured in [IPFS Weekly Edition 51](https://blog.ipfs.io/weekly-51/)
+
 # Upcoming/Missing Features
 
 This library acts as a bridge between go-ipfs-api and stellar to make features easier to use.
