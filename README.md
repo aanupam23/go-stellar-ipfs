@@ -123,7 +123,8 @@ If IPFS is not installed on your system, refer this [guide](https://docs.ipfs.io
 
 
 # Featured
-- Featured in [IPFS Weekly Edition 51](https://blog.ipfs.io/weekly-51/)
+- Featured in [IPFS Weekly Edition 51](https://blog.ipfs.io/weekly-51/) - by Jenn Turner on 2019-07-23
+- Featured in [Stellar Dev Digest: Issue #7](https://medium.com/the-stellar-dev-digest) - by Robert Durst on 2019-07-25
 
 # Upcoming/Missing Features
 
