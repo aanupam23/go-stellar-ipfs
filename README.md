@@ -135,7 +135,7 @@ This library acts as a bridge between go-ipfs-api and stellar to make features e
 | 1    | IPFS hash validation  |   x    |
 | 2    | IPFS Add options      |   x    |
 | 3    | IPFS bootstrap        |   x    |
-| 4    | Private Stellar       |   x    |
+| 4    | Private Stellar       |  :heavy_check_mark:  |
 | 5    | Suggest any feature   |   -    |
 
 
