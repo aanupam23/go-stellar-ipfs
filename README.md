@@ -12,6 +12,12 @@
 - [Stellar Go SDK](https://github.com/stellar/go)
 - [go-ipfs-api](https://github.com/ipfs/go-ipfs-api)
 
+# Install
+
+```
+go get -u github.com/aanupam23/go-stellar-ipfs
+```
+
 # Getting Started
 
 go-stellar-ipfs is a library that acts as a bridge between Stellar and IPFS. It combines the low fee and fast speed stellar with ipfs. Using this library you can build stellar and IPFS application very quickly.
