@@ -4,7 +4,7 @@
   <img src='https://github.com/aanupam23/go-stellar-ipfs/blob/master/images/go-stellar-ipfs.png' />
 </p>
 
-[![Version](https://img.shields.io/badge/go--stellar--ipfs-v0.2-orange.svg)](https://github.com/aanupam23/go-stellar-ipfs/releases) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Document](https://img.shields.io/badge/godoc-document-blue.svg)](https://godoc.org/github.com/aanupam23/go-stellar-ipfs)
+[![Version](https://img.shields.io/badge/go--stellar--ipfs-v0.3-orange.svg)](https://github.com/aanupam23/go-stellar-ipfs/releases) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Document](https://img.shields.io/badge/godoc-document-blue.svg)](https://godoc.org/github.com/aanupam23/go-stellar-ipfs)
 
 
 # Dependencies
