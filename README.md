@@ -20,7 +20,7 @@ go get -u github.com/aanupam23/go-stellar-ipfs
 
 # Getting Started
 
-go-stellar-ipfs is a library that acts as a bridge between Stellar and IPFS. It combines the low fee and fast speed stellar with ipfs. Using this library you can build stellar and IPFS application very quickly.
+go-stellar-ipfs is a library that acts as a bridge between Stellar and IPFS. It combines the low fee and fast speed stellar with ipfs. Using this library you can build Stellar and IPFS application very quickly.
 
 go-stellar-ipfs implements StellarShell that helps you use premade functions for sending any sort of data to IPFS using stellar transaction, memo, manage data and also allows reading of that data.
 
